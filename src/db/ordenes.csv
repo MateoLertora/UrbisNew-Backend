@@ -1,0 +1,9 @@
+cliente,telefono,entrega,horario,pedido
+Mateo Lertora,1134536434,Takeaway,15:11,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Ñoquis - $ 1300', 'postre': 'Cafe - $ 200'}"
+Mateo Lertora,6757655766,Takeaway,21:19,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Milanesa - $ 1500', 'postre': 'Flan - $ 500'}"
+Mateo Lertora,4365465434,Delivery,14:25,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Milanesa - $ 1500', 'postre': ''}"
+Mateo Lertora,1178016453,Takeaway,17:20,"{'entrada': 'Gambas - $ 1000', 'plato_principal': 'Carne - $ 1800', 'postre': 'Helado - $ 300'}"
+Mateo Lertora,1178016453,Delivery,23:24,"{'entrada': 'Buñuelos - $ 700', 'plato_principal': 'Ñoquis - $ 1300', 'postre': 'Helado - $ 300'}"
+Mateo Lertora,1178016453,"{'modo': 'Delivery', 'direc': 'Calle 63'}",23:30,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Pollo - $ 1300', 'postre': 'Helado - $ 300'}"
+Mateo Lertora,3123123123,"{'modo': 'Takeaway', 'direc': ''}",23:31,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Milanesa - $ 1500', 'postre': 'Flan - $ 500'}"
+Mateo Lertora,3123123123,"{'modo': 'Delivery', 'direc': 'Calle 63'}",23:43,"{'entrada': 'Tortilla - $ 700', 'plato_principal': 'Milanesa - $ 1500', 'postre': 'Flan - $ 500'}"
